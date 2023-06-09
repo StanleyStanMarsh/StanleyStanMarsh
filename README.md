@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm StanleyStanMarsh
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">SPbSTU student from Russia 🇷🇺</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Math+and+computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Math+and+computer+science+student)](https://git.io/typing-svg)
 
 🌱 I’m currently learning <b>c++</b>, <b>python</b>
 
