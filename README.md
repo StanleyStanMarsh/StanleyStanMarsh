@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm StanleyStanMarsh
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">SPbSTU student from Russia 🇷🇺</h3>
+<h3 align="center">SPbSTU student from Russia</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Math+and+computer+science+student" alt="Typing SVG" /></a>
-
+______
 🌱 I’m currently learning <b>c++</b>, <b>python</b>
-
+_____
 <h4>Languages and Tools:</h4>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
