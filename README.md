@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Math+and+computer+science+student" alt="Typing SVG" /></a>
 <hr>
 🌱 I’m currently learning <b>c++</b>, <b>python</b>
-<hr>
 <h4>Languages and Tools:</h4>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
