@@ -12,7 +12,8 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 <h4>My platform</h4>
-![Windows](https://github.com/simple-icons/simple-icons/blob/develop/icons/windows11.svg)
+<img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows">
+
 <!--
 **StanleyStanMarsh/StanleyStanMarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
