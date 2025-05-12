@@ -3,7 +3,6 @@
 <h3 align="center">SPbSTU student from Russia</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Math+and+computer+science+student" alt="Typing SVG" /></a>
 <hr>
-🌱 I’m currently learning <b>c++</b>, <b>python</b>
 <h4>Languages and Tools:</h4>
 
 <div>
@@ -18,13 +17,17 @@
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="scala" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="spring" width="40" height="40"/>&nbsp;
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="hs" width="40" height="40"/>&nbsp;
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="psql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="mongo" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="latex" width="40" height="40"/>&nbsp;
 </div>
 
 <h4>My platform</h4>
